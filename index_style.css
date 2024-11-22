@@ -1,0 +1,408 @@
+*
+{
+    padding:0px;
+    margin: 0px;
+    box-sizing:border-box;
+    overflow: auto;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.home
+{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+    text-align:center ;
+    
+  
+}
+.navbar
+{
+padding-top: 20px;
+}
+.navbar-inner
+{
+    width: 90%;
+    margin: auto;
+}
+.navbar-image
+{
+    width: 15%;
+    float: left;
+}
+.navbar-image img
+{
+    width: 100%;
+}
+.navbar-menu
+{
+    width: 40%;
+    float: right;
+}
+.nav-content
+{
+    width: 16.66666%;
+    font-size: 18px;
+    font-family: 'Alegreya';
+    color:#fff;
+    float: left;
+    margin-top: 10px;
+}
+.homeCaption
+{
+    color:#fff ;
+    margin-top: 200px;
+}
+    
+.home .homeCaption h1
+{
+    font-size: 76px;
+    font-weight: 400;
+    font-family:'Alegreya' ;
+    margin: 0px 0px 18px;
+    
+}
+.home .homeCaption .p1
+{
+    font-size: 22px;
+    padding-bottom: 5px;
+}
+.home .homeCaption .p2
+{
+    font-size: 24px;
+    margin: 10px 0px 20px;
+    
+}
+.home .homeCaption .btn
+{
+    font-size:16px;
+    padding:15px 28px ;
+    margin-top: 30px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+}
+.home .homeCaption .btn-brown
+{
+background-color:#8e7754 ;
+margin-right: 12px;
+}
+.home .homeCaption .btn-white
+{
+    border:2px solid #fff; 
+    background-color: transparent;
+}
+.clr
+{
+    clear: both;
+}
+.sec2 
+{
+    padding:90px 37px 60px;
+    margin: 0px 30px;
+    width: 90%;
+    margin: auto;
+}
+
+.sec2-img , .sec2-content , .sec3-img , .sec3-content
+{
+    float: left;
+    width: 50%;
+    
+}
+.sec2-img img , .sec3-img img
+{
+    width: 100%;
+}
+.sec2-img , .sec3-img 
+{
+    
+    padding: 16.5px;
+}
+.sec2-content 
+{
+    padding-top: 40px;
+  padding-left: 16.5px;  
+}
+.sec2-img-inner
+{
+    padding: 0px 15px;
+}
+
+.sec2-content-inner
+{
+    padding: 20px 15px 0px;
+    color: #686868;
+}
+.sec2-content-inner h2 ,.sec3-content-inner h2 
+{
+    color: #303030;
+    font-family:'Alegreya' ;
+    font-size: 32px;
+    margin-bottom: 25px;
+}
+
+.sec2-content-inner p , .sec3-content-inner p
+{
+    color: #686868;
+    font-size: 17px;
+    padding: 0px 20px 0px 0px;
+    
+    
+}
+.sec2-content-inner li
+{
+  padding: 16px 0px;  
+  font-size: 17px;
+}
+.sec3
+{
+    width: 100%;
+    background-color:#f8f8f8;
+    padding: 90px 0px 60px;
+}
+.sec3-container
+{
+    width: 90%;
+    padding: 40px 50px;
+    margin: auto;
+}
+
+
+.sec3-img
+{
+    padding: 40px 40px;
+}
+.sec3-content-inner h2
+{
+    padding: 20px 30px;
+}
+.sec3-content-inner p
+{
+    padding: 0px 30px;
+}
+
+.sec4
+{
+    text-align: center;
+}
+.sec4-container
+{   width: 90%;
+    margin: auto;
+}
+.sec4-content h3
+{
+color: #303030;
+font-size: 30px;
+padding: 90px 0px 30px;
+}
+.sec4-content p
+{
+    font-size: 17px;
+    color: #888;
+    padding: 17px ;
+}
+.our-baking
+{   
+    padding: 20px 20px;
+}
+.our-baking-content
+{
+    width: 33.3333%;
+    float: left;
+    padding: 30px;
+}
+.our-baking-content img
+{
+    width: 100%;
+}
+.our-baking-content h4
+{
+   color: #303030;
+   font-size: 22px;
+    padding: 20px 0px;
+}
+.our-baking-content p
+{
+    color: #686868;
+    font-size: 17px;
+    padding: 12px 10px 30px ;
+}
+.sec5
+{
+    padding: 40px;
+    background-color:#f8f8f8;
+}
+.sec5-container
+{
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+
+}
+.content-info , .location
+{
+    float: left;
+    width: 50%;
+}
+.content-info
+{
+    padding-right:40px;
+}
+.location
+{
+    padding-left: 40px;
+}
+.location-inner img
+{
+    width: 100%;
+}
+.content-info-inner h2
+{
+font-size: 32px;
+font-family:'Alegreya' ;
+font-weight: 400;
+color: #303030;
+padding-bottom:25px ;
+}
+.content-info-inner p , li
+{
+  font-size: 17px;
+  color: #686868;  
+  padding: 10px 0px ;
+}
+
+
+
+
+.sec6
+{
+    background-color: #403d38;
+    color:#969696 ;
+    padding: 60 0 52;
+
+
+}
+.sec6-container
+{
+    width: 95%;
+    margin: auto;
+    
+}
+.sec6-1
+{
+ 
+    float: left;
+    width: 25%;
+    padding: 20px 30px;
+    font-size: 16px;
+}
+.sec6-1 h4
+{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.sec6-1-1 p
+{
+margin-bottom: 20px;
+}
+.sec6-1-2 li ,.sec6-1-3 li
+{
+    color:rgb(150, 150, 150);
+    margin-bottom: 6px;
+    padding-bottom:7px ;  
+    list-style:inside ; 
+}
+.sec6-1-2 div , .sec6-1-3 div , .sec6-1-4-1 div
+{
+    height: 0.5px;
+    background-color:rgba(150, 150, 150, 0.336) ;
+}
+
+.sec6-1-4-1
+{
+
+    margin-top: 35px;
+}
+
+.sec6-1-4 a
+{
+    color:#969696;
+    text-decoration: none;
+ 
+}
+.sec6-1-4 div
+{
+    margin: 30px 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foot
+{
+    background: #353330;
+    width: 100%;
+    text-align: center;
+    height: 30%;  
+    margin: auto;
+}
+
+.foot img
+{
+   width: 20%;
+   padding: 50px 0px 30px; 
+   margin: auto;
+}
+
+.foot span
+{
+    font-size: 14px;
+    color: #969696;
+    padding: 20px;
+}
+
+
+
